@@ -1,0 +1,26 @@
+{
+  "name": "cartas-contra-tugas",
+  "version": "0.0.1",
+  "description": "CARTAS CONTRA TUGAS MEUUU",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://phazelmao@gitlab.com/phazelmao/cartas-contra-tugas.git"
+  },
+  "author": "Lucas & Ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/phazelmao/cartas-contra-tugas/issues"
+  },
+  "homepage": "https://gitlab.com/phazelmao/cartas-contra-tugas#README",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "snekfetch": "^4.0.4"
+  }
+}
